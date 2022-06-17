@@ -17,3 +17,5 @@ RestfulToolkit
 Search In Repository
 
 VisualGC
+
+fast-request
